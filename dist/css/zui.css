@@ -2542,7 +2542,6 @@ hr {
 }
 .btn .label-badge {
   position: relative;
-  top: -1px;
 }
 .nav > li > a > .label-badge,
 .nav > li > a > .label-dot {
